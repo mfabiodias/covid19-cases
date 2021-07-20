@@ -7,4 +7,6 @@
 - 2.2 API GET /api/covid/casos/mensais 
 
 
-<iframe src="https://drive.google.com/file/d/1lvgu6u_PO1iVzZQdTe_1H99hb1r9VDAo/preview" width="640" height="480" allow="autoplay"></iframe>
+<div>
+    <iframe src="https://drive.google.com/file/d/1lvgu6u_PO1iVzZQdTe_1H99hb1r9VDAo/preview" width="640" height="480" allow="autoplay"></iframe>
+</div>
